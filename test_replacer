@@ -1,4 +1,4 @@
 #!/bin/bash
 ls
-rm student_work/TinkoffCalculatorUITests/TinkoffCalculatorUITests.swift
+rm student_work/TinkoffCalculatorUITests/TinkoffCalculatorUITests.swift || true
 cp TinkoffCalculatorUITests.swift student_work/TinkoffCalculatorUITests/TinkoffCalculatorUITests.swift
